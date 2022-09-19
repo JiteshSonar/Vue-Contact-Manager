@@ -1,0 +1,32 @@
+{
+  "contacts": [
+    {
+      "id": "3",
+      "name": "Pruthvi Rajput",
+      "company": "Siddhatech",
+      "email": "pruthvi@r.com",
+      "title": "Software Developer",
+      "mobile": "151551515151",
+      "photo": "https://cdn.dribbble.com/users/206362/screenshots/14453538/media/cfe80febeed64218b34e18f518ca9ae9.jpg?compress=1&resize=400x300&vertical=top",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "friend"
+    },
+    {
+      "id": "2",
+      "name": "cousin"
+    },
+    {
+      "id": "3",
+      "name": "Boss"
+    },
+    {
+      "id": "4",
+      "name": "Manager"
+    }
+  ]
+}
